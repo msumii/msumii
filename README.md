@@ -19,6 +19,6 @@
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msumii&layout=compact&bg_color=000&border_color=FF0000&title_color=FFFFFF&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msumii&layout=compact&bg_color=000&border_color=9560FF&title_color=FFFFFF&text_color=FFF)
 
-![Commits](https://github-readme-stats.vercel.app/api?username=msumii&show_icons=true&bg_color=000&border_color=FF0000&title_color=FFFFFF&text_color=FFF&include_all_commits=true&count_private=true)
+![Commits](https://github-readme-stats.vercel.app/api?username=msumii&show_icons=true&bg_color=000&border_color=9560FF&title_color=FFFFFF&text_color=FFF&include_all_commits=true&count_private=true)
