@@ -1,5 +1,5 @@
 # **Vithor Rocha**
-## ***Desenvolvedor Front-End***
+## ***Desenvolvedor Front-End e UI Designer***
 
 
 
