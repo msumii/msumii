@@ -5,7 +5,7 @@
 
 ### Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vithorrocha/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-F00?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/msumi.v/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-9560FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/msumi.v/)
 [![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vithorrocha066@gmail.com)
 
 ### Skills
@@ -13,9 +13,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-9560FF?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-F00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-9560FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-F00?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-9560FF?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white)
 
 
